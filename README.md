@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### A wild horse in this domesticated world | Backend Engineer with a bit of Frontend knowledge | Python, SQL, JS, C (Learning)
+#### Backend Engineer
 
 * LinkedIn: [Namah Shrestha](https://www.linkedin.com/in/zim95/)
 
