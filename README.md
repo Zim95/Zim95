@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### Backend Engineer | I do some Frontend | And a little bit of Devops too
+#### Backend Engineer | A little bit of Frontend too..
 
 * LinkedIn: [Namah Shrestha](https://www.linkedin.com/in/zim95/)
 
