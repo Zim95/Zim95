@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### Backend Engineer | A little bit of Frontend too..
+#### In love with engineering.
 
 * LinkedIn: [Namah Shrestha](https://www.linkedin.com/in/zim95/)
 
